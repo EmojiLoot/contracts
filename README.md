@@ -1,13 +1,15 @@
 
 ![](./img/banner.jpg)
 
-Website: [emloot.xyz](https://emloot.xyz)
+# Website
+[emloot.xyz](https://emloot.xyz)
 
+# About
 A derivative of [Loot project](https://www.lootproject.com/).
 Emojis are more abstract but more expressive.
 Find an emLoot to represent your lifestyle in the upcoming metaverse.
 
-Frequently Asked Questions
+# Frequently Asked Questions
 What is emLoot?
 emLoot is a collection of 8,000 unique NFT tokens that use emojis to represent your lifestyle in the metaverse. See Loot project for more information.
 
